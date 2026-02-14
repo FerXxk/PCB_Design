@@ -1,0 +1,6 @@
+(kicad_projects
+  (version 1)
+  (project_name "pcb_manu")
+  (schematic "pcb_manu.kicad_sch")
+  (pcb "pcb_manu.kicad_pcb")
+)
