@@ -1,0 +1,17 @@
+# KiCad temporary and backup files
+*-backups/
+_autosave-*
+*.lck
+fp-info-cache
+\#auto_saved_files#
+
+# KiCad machine-specific local settings
+*.kicad_prl
+
+# Output directories
+fabrication/
+docs/
+
+# General OS files
+.DS_Store
+Thumbs.db
